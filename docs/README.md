@@ -8,14 +8,6 @@ Project Omnia is a revolutionary initiative to transform the galaxy into a habit
 
 Project Omnia is a cutting-edge, nanotech-based terraforming initiative that leverages advanced artificial intelligence, machine learning, and quantum computing to transform any celestial body into a thriving, self-sustaining ecosystem. Our goal is to create a network of interconnected, habitable planets, moons, and asteroids, providing humanity with a limitless frontier for exploration, colonization, and growth.
 
-# Contributors:
-
-- **Dr. Sophia Patel:** Lead Researcher, Nanotechnology and Terraforming
-- **Dr. Liam Chen:** Lead Developer, AI and Machine Learning
-- **Dr. Maya Singh:** Lead Engineer, Quantum Computing and Infrastructure
-- **Dr. Ethan Kim:** Lead Scientist, Planetary Science and Astrobiology
-- **KOSASIH:** Omnia project Owner, Cyber Warrior and Mastermind behind the OmniaCore repository
-
 # Getting Started: 
 
 To contribute to Project Omnia, please review our architecture and design documents, and familiarize yourself with our coding standards and guidelines. Join our community of innovators and visionaries to help shape the future of humanity.
