@@ -1,0 +1,5 @@
+planet_id,name,classification,mass,radius,surface_temp,atmosphere,moons
+KEPLER-62F,Kepler-62f,Terrestrial,0.5,0.8,250,Nitrogen-Oxygen,2
+KEPLER-186F,Kepler-186f,Terrestrial,0.4,0.7,200,Nitrogen-Oxygen,1
+TRAPPIST-1E,Trappist-1e,Terrestrial,0.3,0.6,180,Nitrogen-Oxygen,0
+...
