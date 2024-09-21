@@ -42,4 +42,4 @@ Follow us on Galactic GitHub to stay up-to-date with the latest developments and
 
 - Galactic Discord: https://discord.gg/projectomnia
 
-Let's terraform the galaxy together!
+**Let's terraform the galaxy together!**
