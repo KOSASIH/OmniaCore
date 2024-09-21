@@ -1,0 +1,21 @@
+{
+    "project_name": "OmniaCore",
+    "version": "1.0.0",
+    "environment": "dev",
+    "instance_type": "t2.micro",
+    "database": {
+        "username": "omnia_core",
+        "password": "omnia_core_password",
+        "host": "localhost",
+        "port": 5432,
+        "database": "omnia_core_db"
+    },
+    "ai_core": {
+        "model_path": "models/ai_core_model.h5",
+        "optimization_algorithms": ["sgd", "adam"]
+    },
+    "infrastructure": {
+        "cloud_provider": "aws",
+        "region": "us-west-2"
+    }
+}
