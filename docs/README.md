@@ -14,11 +14,15 @@ Project Omnia is a cutting-edge, nanotech-based terraforming initiative that lev
 - **Dr. Liam Chen:** Lead Developer, AI and Machine Learning
 - **Dr. Maya Singh:** Lead Engineer, Quantum Computing and Infrastructure
 - **Dr. Ethan Kim:** Lead Scientist, Planetary Science and Astrobiology
-- **KOSASIH:** Cyber Warrior and Mastermind behind the OmniaCore repository
+- **KOSASIH:** Omnia project Owner, Cyber Warrior and Mastermind behind the OmniaCore repository
 
-# Getting Started: To contribute to Project Omnia, please review our architecture and design documents, and familiarize yourself with our coding standards and guidelines. Join our community of innovators and visionaries to help shape the future of humanity.
+# Getting Started: 
 
-# License: Project Omnia is licensed under the Galactic Open-Source Initiative (GOSI), ensuring that our research and technology are available to all, for the betterment of the galaxy.
+To contribute to Project Omnia, please review our architecture and design documents, and familiarize yourself with our coding standards and guidelines. Join our community of innovators and visionaries to help shape the future of humanity.
+
+# License: 
+
+Project Omnia is licensed under the Galactic Open-Source Initiative (GOSI), ensuring that our research and technology are available to all, for the betterment of the galaxy.
 
 # Repository Structure: This repository is organized into the following folders:
 
