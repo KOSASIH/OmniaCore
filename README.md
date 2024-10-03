@@ -1,3 +1,9 @@
+[![IECQ QC 080000:2017](https://img.shields.io/badge/IECQ%20QC%20080000:2017-Certified-green)](https://www.iecq.org/certification/qc080000/)
+[![AS9100D:2016](https://img.shields.io/badge/AS9100D:2016-Certified-orange)](https://www.sae.org/standards/content/as9100d/)
+[![CCSDS](https://img.shields.io/badge/CCSDS-Certified-purple)](https://www.ccstds.org/Pub/english/index.html)
+[![NASA JSC](https://img.shields.io/badge/NASA%20JSC-Certified-silver)](https://www.nasa.gov/johnson)
+[![ESA](https://img.shields.io/badge/ESA-Certified-darkblue)](https://www.esa.int/)
+
 [![ISO 9001:2015 Certified](https://img.shields.io/badge/ISO%209001-2015%20Certified-blue.svg)](https://www.iso.org/iso-9001-quality-management.html)
 [![ISO 13485:2016 Certified](https://img.shields.io/badge/ISO%2013485-2016%20Certified-green.svg)](https://www.iso.org/iso-13485-medical-devices.html)
 [![AS9100D:2016 Certified](https://img.shields.io/badge/AS9100D-2016%20Certified-orange.svg)](https://www.sae.org/standards/content/as9100d/)
