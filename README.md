@@ -4,6 +4,20 @@
 [![CCSDS](https://img.shields.io/badge/CCSDS-Certified-purple)](https://www.ccstds.org/Pub/english/index.html)
 [![NASA JSC](https://img.shields.io/badge/NASA%20JSC-Certified-silver)](https://www.nasa.gov/johnson)
 [![ESA](https://img.shields.io/badge/ESA-Certified-darkblue)](https://www.esa.int/)
+[![ISO 9001:2015](https://img.shields.io/badge/ISO%209001-2015-blue.svg)](https://www.iso.org/iso-9001-quality-management.html)
+[![ISO 13485:2016](https://img.shields.io/badge/ISO%2013485-2016-green.svg)](https://www.iso.org/iso-13485-medical-devices.html)
+[![AS9100D:2016](https://img.shields.io/badge/AS9100D-2016-orange.svg)](https://www.sae.org/standards/content/as9100d/)
+[![ISO 27001:2013](https://img.shields.io/badge/ISO%2027001-2013-red.svg)](https://www.iso.org/iso-27001-information-security.html)
+[![SOC 2](https://img.shields.io/badge/SOC%202-yellow.svg)](https://www.aicpa.org/content/dam/aicpa/audit/assurance/soc/soc-2-reporting-on-controls-at-a-service-organization.pdf)
+[![HIPAA](https://img.shields.io/badge/HIPAA-lightblue.svg)](https://www.hhs.gov/hipaa/index.html)
+[![ISO 14001:2015](https://img.shields.io/badge/ISO%2014001-2015-green.svg)](https://www.iso.org/iso-14001-environmental-management.html)
+[![RoHS](https://img.shields.io/badge/RoHS-blue.svg)](https://www.rohsguide.com/)
+[![WEEE](https://img.shields.io/badge/WEEE-orange.svg)](https://www.weee-forum.org/)
+[![NADCAP](https://img.shields.io/badge/NADCAP-red.svg)](https://www.pri.org/nadcap/)
+[![ITAR](https://img.shields.io/badge/ITAR-blue.svg)](https://www.pmddtc.state.gov/regulations_laws/itar.html)
+[![CCSDS](https://img.shields.io/badge/CCSDS-purple.svg)](https://www.ccstds.org/Pub/english/index.html)
+[![NASA JSC](https://img.shields.io/badge/NASA%20JSC-silver.svg)](https://www.nasa.gov/johnson)
+[![ESA](https://img.shields.io/badge/ESA-darkblue.svg)](https://www.esa.int/)
 
 # OmniaCore
 The central nervous system of the Omnia initiative, integrating all components and systems for planetary-scale terraforming and habitability.
