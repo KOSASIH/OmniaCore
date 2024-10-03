@@ -21,7 +21,3 @@ OmniaCore is an open-source project, and we welcome contributions from developer
 # License
 
 OmniaCore is licensed under the Galactic Open-Source License (GOSL). See LICENSE.md for details.
-
-# Contact
-
-For inquiries, support, or collaboration opportunities, please contact us at omnia-core@kosasih.space.
