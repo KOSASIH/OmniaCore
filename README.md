@@ -18,6 +18,10 @@
 [![CCSDS](https://img.shields.io/badge/CCSDS-purple.svg)](https://www.ccstds.org/Pub/english/index.html)
 [![NASA JSC](https://img.shields.io/badge/NASA%20JSC-silver.svg)](https://www.nasa.gov/johnson)
 [![ESA](https://img.shields.io/badge/ESA-darkblue.svg)](https://www.esa.int/)
+[![FAA](https://img.shields.io/badge/FAA-lightgreen.svg)](https://www.faa.gov/)
+[![EASA](https://img.shields.io/badge/EASA-brown.svg)](https://www.easa.europa.eu/)
+[![GOST](https://img.shields.io/badge/GOST-pink.svg)](https://www.gost.ru/)
+[![JAXA](https://img.shields.io/badge/JAXA-teal.svg)](https://www.jaxa.jp/)
 
 # OmniaCore
 The central nervous system of the Omnia initiative, integrating all components and systems for planetary-scale terraforming and habitability.
