@@ -11,7 +11,7 @@ EMAIL = "kosasihg88@gmail.com"
 DEPENDENCIES = [
     "numpy==1.21.2",
     "pytest==6.2.5",
-    "django==3.2.9",
+    "django==4.2.16",
 ]
 
 # Setup script
