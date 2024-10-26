@@ -84,6 +84,16 @@
 [![The International Space University (ISU) Awards](https://img.shields.io/badge/ISU%20Awards-Award-orange)](https://www.isunet.edu/)
 [![The International Lunar Exploration Working Group (ILEWG) Awards](https://img.shields.io/badge/ILEWG%20Awards-Award-lightblue)](https://www.ilewg.org/)
 [![The International Space Station Research and Development Conference Awards](https://img.shields.io/badge/ISS%20R%26D%20Conference%20Awards-Award-blueviolet)](https://www.issconference.org/)
+[![The International Academy of Astronautics (IAA) Laurels](https://img.shields.io/badge/IAA%20Laurels-Award-blue)](https://iaaweb.org/)
+[![The International Space Exploration Coordination Group (ISECG) Awards](https://img.shields.io/badge/ISECG%20Awards-Award-orange)](https://www.globalspaceexploration.org/)
+[![The American Astronautical Society (AAS) Awards](https://img.shields.io/badge/AAS%20Awards-Award-red)](https://www.aas.org/)
+[![The International Space Development Conference (ISDC) Awards](https://img.shields.io/badge/ISDC%20Awards-Award-lightgreen)](https://isdc.nss.org/)
+[![The Space Frontier Foundation Awards](https://img.shields.io/badge/Space%20Frontier%20Foundation%20Awards-Award-purple)](https://spacefrontier.org/)
+[![The International Space Station (ISS) National Lab Awards](https://img.shields.io/badge/ISS%20National%20Lab%20Awards-Award-blue)](https://www.issnationallab.org/)
+[![The International Astronautical Federation (IAF) Young Professionals Awards](https://img.shields.io/badge/IAF%20Young%20Professionals%20Awards-Award-gold)](https://www.iafastro.org/)
+[![The International Space University (ISU) Awards](https://img.shields.io/badge/ISU%20Awards-Award-orange)](https://www.isunet.edu/)
+[![The Space Data Association (SDA) Awards](https://img.shields.io/badge/SDA%20Awards-Award-lightblue)](https://www.space-data.org/)
+[![The International Lunar Exploration Working Group (ILEWG) Awards](https://img.shields.io/badge/ILEWG%20Awards-Award-blueviolet)](https://www.ilewg.org/)
 
 # OmniaCore
 The central nervous system of the Omnia initiative, integrating all components and systems for planetary-scale terraforming and habitability.
