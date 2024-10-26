@@ -94,6 +94,16 @@
 [![The International Space University (ISU) Awards](https://img.shields.io/badge/ISU%20Awards-Award-orange)](https://www.isunet.edu/)
 [![The Space Data Association (SDA) Awards](https://img.shields.io/badge/SDA%20Awards-Award-lightblue)](https://www.space-data.org/)
 [![The International Lunar Exploration Working Group (ILEWG) Awards](https://img.shields.io/badge/ILEWG%20Awards-Award-blueviolet)](https://www.ilewg.org/)
+[![The European Space Agency (ESA) Awards](https://img.shields.io/badge/ESA%20Awards-Award-blue)](https://www.esa.int/)
+[![The International Space Station (ISS) Research Awards](https://img.shields.io/badge/ISS%20Research%20Awards-Award-orange)](https://www.nasa.gov/mission_pages/station/research/awards.html)
+[![The Space Foundation's Space Achievement Award](https://img.shields.io/badge/Space%20Foundation%20Achievement%20Award-Award-red)](https://www.spacefoundation.org/)
+[![The International Astronautical Federation (IAF) World Space Awards](https://img.shields.io/badge/IAF%20World%20Space%20Awards-Award-lightgreen)](https://www.iafastro.org/)
+[![The American Institute of Aeronautics and Astronautics (AIAA) Awards](https://img.shields.io/badge/AIAA%20Awards-Award-purple)](https://www.aiaa.org/)
+[![The International Academy of Astronautics (IAA) Awards](https://img.shields.io/badge/IAA%20Awards-Award-blueviolet)](https://iaaweb.org/)
+[![The International Space University (ISU) Awards](https://img.shields.io/badge/ISU%20Awards-Award-gold)](https://www.isunet.edu/)
+[![The National Aeronautics and Space Administration (NASA) Awards](https://img.shields.io/badge/NASA%20Awards-Award-lightblue)](https://www.nasa.gov/)
+[![The Space Data Association (SDA) Awards](https://img.shields.io/badge/SDA%20Awards-Award-orange)](https://www.space-data.org/)
+[![The International Lunar Exploration Working Group (ILEWG) Awards](https://img.shields.io/badge/ILEWG%20Awards-Award-red)](https://www.ilewg.org/)
 
 # OmniaCore
 The central nervous system of the Omnia initiative, integrating all components and systems for planetary-scale terraforming and habitability.
